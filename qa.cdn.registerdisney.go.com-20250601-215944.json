@@ -1,0 +1,13 @@
+[
+  "http://qa.cdn.registerdisney.go.com/",
+  "https://qa.cdn.registerdisney.go.com/DisneyID.js",
+  "https://qa.cdn.registerdisney.go.com/OneID.js",
+  "https://qa.cdn.registerdisney.go.com/OneIDMigrate.js",
+  "http://qa.cdn.registerdisney.go.com/robots.txt",
+  "https://qa.cdn.registerdisney.go.com/v2/DTSS-PERMISSIONCENTER.WEB-STAGE/en-US?include=config,l10n,js,html&scheme=https&postMessageOrigin=https%3A%2F%2Fprivacychoices-qa.thewaltdisneycompany.com%2Fen-US&cookieDomain=privacychoices-qa.thewaltdisneycompany.com&config=STG&logLevel=INFO&topHost=privacychoices-qa.thewaltdisneycompany.com&cssOverride=https%3A%2F%2Fprivacychoices-qa.thewaltdisneycompany.com%2Fresources%2Fcss%2Fthemes%2Foneid-web-override.css&responderPage=https%3A%2F%2Fprivacychoices-qa.thewaltdisneycompany.com%2Fresponder&buildId=1804908aaca",
+  "https://qa.cdn.registerdisney.go.com/v2/inner/images/icon/white-check.png",
+  "https://qa.cdn.registerdisney.go.com/v2/outer/DisneyID.js",
+  "https://qa.cdn.registerdisney.go.com/v2/outer/DisneyID_common.js",
+  "https://qa.cdn.registerdisney.go.com/v4/OneID.js",
+  "https://qa.cdn.registerdisney.go.com/v4/responder.js"
+]
